@@ -1,0 +1,1 @@
+pytest -v .\test_one.py
